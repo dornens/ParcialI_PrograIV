@@ -8,8 +8,8 @@ Fecha: 27 feb 2026
 Nota: En el archivo extension.py hay una explicacion mas detallada sobre el proyecto
 
 ## Integrantes
-- Diego Martin Lopez Moreno  
-- Franklin Aldahir Portillo Flores  
+- Diego Martin Lopez Moreno         (SMSS097824) 
+- Franklin Aldahir Portillo Flores  (SMSS011624) 
 
 ---
 
