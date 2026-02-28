@@ -119,7 +119,7 @@ El uso de:
 - Separación de responsabilidades
 - Validaciones independientes por componente
 
-ya proporciona una base sólida para escalar sin reescribir completamente el sistema.
+Ya proporciona una base sólida para escalar sin reescribir completamente el sistema.
 
 ---
 
@@ -127,4 +127,4 @@ ya proporciona una base sólida para escalar sin reescribir completamente el sis
 
 El proyecto CotiZen v2 fue desarrollado aplicando principios modernos de desarrollo web como Web Components, manipulación dinámica del DOM y validación estructurada del lado del cliente. 
 
-Se implemento una solución organizada, modular y preparada para crecimiento futuro, manteniendo una experiencia fluida sin recargas de página.
+Se implemento una solución organizada, modular y preparada para crecimiento futuro, manteniendo una experiencia fluida.
