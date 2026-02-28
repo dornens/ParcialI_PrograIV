@@ -1,6 +1,8 @@
 # CotiZen v2 – Cotizador de Servicios 
 Programacion Computacional IV
 
+Parcial I Computo I
+
 Ingenieria en sistemas y redes informáticas
 
 Fecha: 27 feb 2026
