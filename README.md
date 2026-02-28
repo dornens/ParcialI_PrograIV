@@ -19,7 +19,7 @@ El componente `service-row` utiliza Shadow DOM, lo que permite encapsular estilo
 
 El componente `quote-card` permite renderizar dinámicamente la cotización final a partir de atributos y datos enviados desde la lógica principal. Esto facilita reutilizar la tarjeta en otros contextos sin modificar su estructura interna.
 
-En conjunto, los Web Components permiten que el sistema sea más escalable, organizado y fácil de mantener a largo plazo. La incorporación de Web Components no fue únicamente una decisión técnica, sino también una decisión arquitectónica orientada a la escalabilidad y mantenibilidad del sistema. Los componentes desarrollados encapsulan tanto la estructura visual (HTML) como el comportamiento (JavaScript) y los estilos (CSS) en una unidad cohesiva e independiente. El valor más profundo de los Web Components en CotiZen v2 no es simplemente "organizar el código", sino crear una barrera de aislamiento real entre partes del sistema que no deberían conocerse entre sí. 
+
 ---
 
 ## ¿De qué forma manipularon los datos sin recargar la página?
