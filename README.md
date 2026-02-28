@@ -1,5 +1,7 @@
 # CotiZen v2 – Cotizador de Servicios
-
+Programacion Computacional IV
+Ingenieria en sistemas y redes informáticas
+Fecha: 27 feb 2026
 ## Integrantes
 - Diego Martin Lopez Moreno  
 - Franklin Aldahir Portillo Flores  
@@ -121,4 +123,4 @@ ya proporciona una base sólida para escalar sin reescribir completamente el sis
 
 El proyecto CotiZen v2 fue desarrollado aplicando principios modernos de desarrollo web como Web Components, manipulación dinámica del DOM y validación estructurada del lado del cliente. 
 
-Diego Martin Lopez Moreno y Franklin Aldahir Portillo Flores implementaron una solución organizada, modular y preparada para crecimiento futuro, manteniendo una experiencia fluida sin recargas de página.
+Se implemento una solución organizada, modular y preparada para crecimiento futuro, manteniendo una experiencia fluida sin recargas de página.
