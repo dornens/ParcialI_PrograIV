@@ -1,7 +1,6 @@
-# CotiZen v2 – Cotizador de Servicios
-Programacion Computacional IV
-Ingenieria en sistemas y redes informáticas
-Fecha: 27 feb 2026
+# CotiZen v2 – Cotizador de Servicios Programacion Computacional IV
+Ingenieria en sistemas y redes informáticas Fecha: 27 feb 2026
+Nota: En el archivo extension.py hay una explicacion mas detallada sobre el proyecto
 ## Integrantes
 - Diego Martin Lopez Moreno  
 - Franklin Aldahir Portillo Flores  
